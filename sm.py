@@ -5,11 +5,8 @@ print("2.Vegetables")
 print("3.Cereals")
 print("4.Juice")
 print("5.Beans")
-<<<<<<< HEAD
 print("6.Dairy articles")
-=======
 print("6.Dairy Items")
->>>>>>> 4dd1e24c0faea401341766b5aab42bf87e061c4d
 f= input("Enter the section you need:")
 if f == "fruits":
     print("How many kgs of apple you need?")
