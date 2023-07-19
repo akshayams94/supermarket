@@ -5,7 +5,7 @@ print("2.Vegetables")
 print("3.Cereals")
 print("4.Juice")
 print("5.Beans")
-print("6.Dairy Items")
+print("6.Milk")
 
 f= input("Enter the section you need:")
 if f == "fruits":
