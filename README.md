@@ -1,0 +1,1 @@
+A desktop open application
